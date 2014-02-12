@@ -1,0 +1,24 @@
+{
+  "name": "menu",
+  "repo": "heatroom/menu",
+  "description": "menu UI component",
+  "version": "0.0.1",
+  "keywords": [
+    "menu"
+  ],
+  "dependencies": {
+    "component/emitter": "*",
+    "component/jquery": "*",
+    "component/bind": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "menu.css"
+  ]
+}
