@@ -207,7 +207,7 @@ Menu.prototype.has = function(slug){
 Menu.prototype.moveTo = function(x, y){
   this.el.css({
     top: y,
-    left: x - 10
+    left: x
   });
   return this;
 };
